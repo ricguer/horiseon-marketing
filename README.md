@@ -8,4 +8,5 @@ Codebase for Horiseon Social Solution Services, Inc. website. Codebase has been 
 ## Deploy
 The project can be visited by clicking on the following link:
 
+https://ricguer.github.io/horiseon-marketing/
 
